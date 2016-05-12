@@ -1,0 +1,22 @@
+\begin{thebibliography}{1}
+
+\bibitem{price}
+\url{http://www.ti.com/product/tms320c6713b/samplebuy}.
+
+\bibitem{ai}
+\url{http://totologic.blogspot.com/2013/03/tetris-ai-explained.html}.
+
+\bibitem{multifeaturefusionarticle}
+Z.~Shujun L.~Yun, Z.~Lifeng.
+\newblock A hand gesture recognition method based on multi-feature fusion and
+  template matching.
+\newblock In {\em 2012 International Workshop on Information and Electronics
+  Engineering}, pages 1678–--1684. Procedia Eng., 2012.
+
+\bibitem{ren2011robust}
+Zhou Ren, Jingjing Meng, Junsong Yuan, and Zhengyou Zhang.
+\newblock Robust hand gesture recognition with kinect sensor.
+\newblock In {\em Proceedings of the 19th ACM international conference on
+  Multimedia}, pages 759--760. ACM, 2011.
+
+\end{thebibliography}

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?fileVersion 3.1.0?>
+
+<ManagedProjectBuildInfo>
+<project id="Tetris.com.ti.ccstudio.buildDefinitions.C6000.ProjectType.1745032529" name="C6000" projectType="com.ti.ccstudio.buildDefinitions.C6000.ProjectType">
+<configuration artifactExtension="out" artifactName="Tetris" description="" id="com.ti.ccstudio.buildDefinitions.C6000.Debug.1124306485" name="Debug" parent="com.ti.ccstudio.buildDefinitions.C6000.Debug">
+<toolChain id="com.ti.ccstudio.buildDefinitions.C6000_7.2.exe.DebugToolchain.420572849" name="TI Code Generation Tools" superClass="com.ti.ccstudio.buildDefinitions.C6000_7.2.exe.DebugToolchain" targetTool="com.ti.ccstudio.buildDefinitions.C6000_7.2.exe.linkerDebug.424202581">
+<option id="com.ti.ccstudio.buildDefinitions.core.OPT_TAGS.1267729965" superClass="com.ti.ccstudio.buildDefinitions.core.OPT_TAGS" valueType="stringList">
+<listOptionValue builtIn="false" value="DEVICE_CONFIGURATION_ID=TMS320C64XX.TMS320DM6437"/>
+<listOptionValue builtIn="false" value="DEVICE_ENDIANNESS=little"/>
+<listOptionValue builtIn="false" value="OUTPUT_FORMAT=COFF"/>
+<listOptionValue builtIn="false" value="CCS_MBS_VERSION=4.2.4"/>
+<listOptionValue builtIn="false" value="LINKER_COMMAND_FILE="/>
+<listOptionValue builtIn="false" value="RUNTIME_SUPPORT_LIBRARY=libc.a"/>
+<listOptionValue builtIn="false" value="OUTPUT_TYPE=executable"/>
+</option>
+<option id="com.ti.ccstudio.buildDefinitions.core.OPT_CODEGEN_VERSION.302351302" superClass="com.ti.ccstudio.buildDefinitions.core.OPT_CODEGEN_VERSION" value="7.2.3" valueType="string"/>
+<tool id="com.ti.ccstudio.buildDefinitions.C6000_7.2.exe.compilerDebug.1583317332" name="C6000 Compiler" superClass="com.ti.ccstudio.buildDefinitions.C6000_7.2.exe.compilerDebug">
+<option id="com.ti.ccstudio.buildDefinitions.C6000_7.2.compilerID.DIAG_WARNING.707495804" superClass="com.ti.ccstudio.buildDefinitions.C6000_7.2.compilerID.DIAG_WARNING" valueType="stringList">
+<listOptionValue builtIn="false" value="225"/>
+</option>
+<option id="com.ti.ccstudio.buildDefinitions.C6000_7.2.compilerID.SILICON_VERSION.942945169" superClass="com.ti.ccstudio.buildDefinitions.C6000_7.2.compilerID.SILICON_VERSION" value="64+" valueType="string"/>
+<option id="com.ti.ccstudio.buildDefinitions.C6000_7.2.compilerID.INCLUDE_PATH.1838046224" superClass="com.ti.ccstudio.buildDefinitions.C6000_7.2.compilerID.INCLUDE_PATH" valueType="includePath">
+<listOptionValue builtIn="false" value="&quot;${CG_TOOL_ROOT}/include&quot;"/>
+<listOptionValue builtIn="false" value="&quot;C:\opencv\build\include\opencv&quot;"/>
+<listOptionValue builtIn="false" value="&quot;C:\opencv\build\include&quot;"/>
+<listOptionValue builtIn="false" value="&quot;C:\opencv\build\include\opencv2&quot;"/>
+<listOptionValue builtIn="false" value="&quot;C:\ti\vlib_c64Px_3_2_1_0\packages\ti\vlib&quot;"/>
+<listOptionValue builtIn="false" value="&quot;C:\ti\vlib_c64Px_3_2_1_0\packages&quot;"/>
+<listOptionValue builtIn="false" value="&quot;C:\Program Files (x86)\Texas Instruments\ccsv4\C6000\cgtools\include&quot;"/>
+<listOptionValue builtIn="false" value="&quot;C:\Program Files (x86)\Texas Instruments\ccsv4\C6000\csl\include&quot;"/>
+<listOptionValue builtIn="false" value="&quot;C:\Program Files (x86)\Texas Instruments\ccsv4\evmdm6437_v2\include&quot;"/>
+</option>
+<option id="com.ti.ccstudio.buildDefinitions.C6000_7.2.compilerID.ABI.1063466940" superClass="com.ti.ccstudio.buildDefinitions.C6000_7.2.compilerID.ABI" value="com.ti.ccstudio.buildDefinitions.C6000_7.2.compilerID.ABI.coffabi" valueType="enumerated"/>
+<option id="com.ti.ccstudio.buildDefinitions.C6000_7.2.compilerID.CPP_DEFAULT.1149539084" superClass="com.ti.ccstudio.buildDefinitions.C6000_7.2.compilerID.CPP_DEFAULT" value="false" valueType="boolean"/>
+<option id="com.ti.ccstudio.buildDefinitions.C6000_7.2.compilerID.C_C_PLUS_PLUS_DIALECT.1700426013" superClass="com.ti.ccstudio.buildDefinitions.C6000_7.2.compilerID.C_C_PLUS_PLUS_DIALECT" value="com.ti.ccstudio.buildDefinitions.C6000_7.2.compilerID.C_C_PLUS_PLUS_DIALECT._none" valueType="enumerated"/>
+<option id="com.ti.ccstudio.buildDefinitions.C6000_7.2.compilerID.OPT_LEVEL.2121540526" superClass="com.ti.ccstudio.buildDefinitions.C6000_7.2.compilerID.OPT_LEVEL" value="com.ti.ccstudio.buildDefinitions.C6000_7.2.compilerID.OPT_LEVEL.3" valueType="enumerated"/>
+<option id="com.ti.ccstudio.buildDefinitions.C6000_7.2.compilerID.PRINTF_SUPPORT.63476474" superClass="com.ti.ccstudio.buildDefinitions.C6000_7.2.compilerID.PRINTF_SUPPORT" value="com.ti.ccstudio.buildDefinitions.C6000_7.2.compilerID.PRINTF_SUPPORT.full" valueType="enumerated"/>
+</tool>
+<tool id="com.ti.ccstudio.buildDefinitions.C6000_7.2.exe.linkerDebug.424202581" name="C6000 Linker" superClass="com.ti.ccstudio.buildDefinitions.C6000_7.2.exe.linkerDebug">
+<option id="com.ti.ccstudio.buildDefinitions.C6000_7.2.linkerID.STACK_SIZE.758464427" superClass="com.ti.ccstudio.buildDefinitions.C6000_7.2.linkerID.STACK_SIZE" value="1000" valueType="string"/>
+<option id="com.ti.ccstudio.buildDefinitions.C6000_7.2.linkerID.HEAP_SIZE.897842462" superClass="com.ti.ccstudio.buildDefinitions.C6000_7.2.linkerID.HEAP_SIZE" value="1000" valueType="string"/>
+<option id="com.ti.ccstudio.buildDefinitions.C6000_7.2.linkerID.OUTPUT_FILE.1904074349" superClass="com.ti.ccstudio.buildDefinitions.C6000_7.2.linkerID.OUTPUT_FILE" value="&quot;Tetris.out&quot;" valueType="string"/>
+<option id="com.ti.ccstudio.buildDefinitions.C6000_7.2.linkerID.MAP_FILE.1114371861" superClass="com.ti.ccstudio.buildDefinitions.C6000_7.2.linkerID.MAP_FILE" value="&quot;Tetris.map&quot;" valueType="string"/>
+<option id="com.ti.ccstudio.buildDefinitions.C6000_7.2.linkerID.LIBRARY.1262085431" superClass="com.ti.ccstudio.buildDefinitions.C6000_7.2.linkerID.LIBRARY" valueType="libs">
+<listOptionValue builtIn="false" value="&quot;libc.a&quot;"/>
+</option>
+<option id="com.ti.ccstudio.buildDefinitions.C6000_7.2.linkerID.SEARCH_PATH.906593565" superClass="com.ti.ccstudio.buildDefinitions.C6000_7.2.linkerID.SEARCH_PATH" valueType="stringList">
+<listOptionValue builtIn="false" value="&quot;${CG_TOOL_ROOT}/lib&quot;"/>
+<listOptionValue builtIn="false" value="&quot;C:\opencv\build\x64\vc12\lib&quot;"/>
+<listOptionValue builtIn="false" value="&quot;C:\ti\vlib_c64Px_3_2_1_0\packages\ti\vlib\lib&quot;"/>
+<listOptionValue builtIn="false" value="&quot;C:\Program Files (x86)\Texas Instruments\ccsv4\evmdm6437_v2\lib&quot;"/>
+<listOptionValue builtIn="false" value="&quot;C:\Program Files (x86)\Texas Instruments\ccsv4\C6000\cgtools\lib&quot;"/>
+<listOptionValue builtIn="false" value="&quot;C:\Program Files (x86)\Texas Instruments\ccsv4\C6000\csl\lib&quot;"/>
+<listOptionValue builtIn="false" value="&quot;${CG_TOOL_ROOT}/include&quot;"/>
+</option>
+</tool>
+<macros expandEnvironmentMacros="true"/>
+</toolChain>
+</configuration>
+<configuration artifactExtension="out" artifactName="Tetris" description="" id="com.ti.ccstudio.buildDefinitions.C6000.Release.709977394" name="Release" parent="com.ti.ccstudio.buildDefinitions.C6000.Release">
+<toolChain id="com.ti.ccstudio.buildDefinitions.C6000_7.2.exe.ReleaseToolchain.1357660504" name="TI Code Generation Tools" superClass="com.ti.ccstudio.buildDefinitions.C6000_7.2.exe.ReleaseToolchain" targetTool="com.ti.ccstudio.buildDefinitions.C6000_7.2.exe.linkerRelease.1701955508">
+<option id="com.ti.ccstudio.buildDefinitions.core.OPT_TAGS.1249498964" superClass="com.ti.ccstudio.buildDefinitions.core.OPT_TAGS" valueType="stringList">
+<listOptionValue builtIn="false" value="DEVICE_CONFIGURATION_ID=TMS320C64XX.TMS320DM6437"/>
+<listOptionValue builtIn="false" value="DEVICE_ENDIANNESS=little"/>
+<listOptionValue builtIn="false" value="OUTPUT_FORMAT=COFF"/>
+<listOptionValue builtIn="false" value="CCS_MBS_VERSION=4.2.4"/>
+<listOptionValue builtIn="false" value="LINKER_COMMAND_FILE="/>
+<listOptionValue builtIn="false" value="RUNTIME_SUPPORT_LIBRARY=libc.a"/>
+<listOptionValue builtIn="false" value="OUTPUT_TYPE=executable"/>
+</option>
+<option id="com.ti.ccstudio.buildDefinitions.core.OPT_CODEGEN_VERSION.220974104" superClass="com.ti.ccstudio.buildDefinitions.core.OPT_CODEGEN_VERSION" value="7.2.3" valueType="string"/>
+<tool id="com.ti.ccstudio.buildDefinitions.C6000_7.2.exe.compilerRelease.1738140895" name="C6000 Compiler" superClass="com.ti.ccstudio.buildDefinitions.C6000_7.2.exe.compilerRelease">
+<option id="com.ti.ccstudio.buildDefinitions.C6000_7.2.compilerID.DIAG_WARNING.1969389511" superClass="com.ti.ccstudio.buildDefinitions.C6000_7.2.compilerID.DIAG_WARNING" valueType="stringList">
+<listOptionValue builtIn="false" value="225"/>
+</option>
+<option id="com.ti.ccstudio.buildDefinitions.C6000_7.2.compilerID.SILICON_VERSION.976604979" superClass="com.ti.ccstudio.buildDefinitions.C6000_7.2.compilerID.SILICON_VERSION" value="64+" valueType="string"/>
+<option id="com.ti.ccstudio.buildDefinitions.C6000_7.2.compilerID.INCLUDE_PATH.612113807" superClass="com.ti.ccstudio.buildDefinitions.C6000_7.2.compilerID.INCLUDE_PATH" valueType="includePath">
+<listOptionValue builtIn="false" value="&quot;${CG_TOOL_ROOT}/include&quot;"/>
+</option>
+<option id="com.ti.ccstudio.buildDefinitions.C6000_7.2.compilerID.ABI.1143047357" superClass="com.ti.ccstudio.buildDefinitions.C6000_7.2.compilerID.ABI" value="com.ti.ccstudio.buildDefinitions.C6000_7.2.compilerID.ABI.coffabi" valueType="enumerated"/>
+</tool>
+<tool id="com.ti.ccstudio.buildDefinitions.C6000_7.2.exe.linkerRelease.1701955508" name="C6000 Linker" superClass="com.ti.ccstudio.buildDefinitions.C6000_7.2.exe.linkerRelease">
+<option id="com.ti.ccstudio.buildDefinitions.C6000_7.2.linkerID.STACK_SIZE.630754789" superClass="com.ti.ccstudio.buildDefinitions.C6000_7.2.linkerID.STACK_SIZE" value="800" valueType="string"/>
+<option id="com.ti.ccstudio.buildDefinitions.C6000_7.2.linkerID.HEAP_SIZE.1959842362" superClass="com.ti.ccstudio.buildDefinitions.C6000_7.2.linkerID.HEAP_SIZE" value="800" valueType="string"/>
+<option id="com.ti.ccstudio.buildDefinitions.C6000_7.2.linkerID.OUTPUT_FILE.1849400639" superClass="com.ti.ccstudio.buildDefinitions.C6000_7.2.linkerID.OUTPUT_FILE" value="&quot;Tetris.out&quot;" valueType="string"/>
+<option id="com.ti.ccstudio.buildDefinitions.C6000_7.2.linkerID.MAP_FILE.1206756984" superClass="com.ti.ccstudio.buildDefinitions.C6000_7.2.linkerID.MAP_FILE" value="&quot;Tetris.map&quot;" valueType="string"/>
+<option id="com.ti.ccstudio.buildDefinitions.C6000_7.2.linkerID.LIBRARY.932699082" superClass="com.ti.ccstudio.buildDefinitions.C6000_7.2.linkerID.LIBRARY" valueType="libs">
+<listOptionValue builtIn="false" value="&quot;libc.a&quot;"/>
+</option>
+<option id="com.ti.ccstudio.buildDefinitions.C6000_7.2.linkerID.SEARCH_PATH.1375288954" superClass="com.ti.ccstudio.buildDefinitions.C6000_7.2.linkerID.SEARCH_PATH" valueType="stringList">
+<listOptionValue builtIn="false" value="&quot;${CG_TOOL_ROOT}/lib&quot;"/>
+<listOptionValue builtIn="false" value="&quot;${CG_TOOL_ROOT}/include&quot;"/>
+</option>
+</tool>
+</toolChain>
+</configuration>
+<macros/>
+</project>
+</ManagedProjectBuildInfo>

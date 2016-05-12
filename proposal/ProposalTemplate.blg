@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: ProposalTemplate.aux
+The style file: plain.bst
+Database file #1: references.bib
+Warning--to sort, need author or key in price
+Warning--to sort, need author or key in ai
+You've used 4 entries,
+            2118 wiz_defined-function locations,
+            515 strings with 4591 characters,
+and the built_in function-call counts, 1391 in all, are:
+= -- 145
+> -- 32
+< -- 2
++ -- 15
+- -- 10
+* -- 71
+:= -- 179
+add.period$ -- 10
+call.type$ -- 4
+change.case$ -- 15
+chr.to.int$ -- 0
+cite$ -- 6
+duplicate$ -- 68
+empty$ -- 138
+format.name$ -- 10
+if$ -- 336
+int.to.chr$ -- 0
+int.to.str$ -- 4
+missing$ -- 2
+newline$ -- 19
+num.names$ -- 4
+pop$ -- 35
+preamble$ -- 1
+purify$ -- 13
+quote$ -- 0
+skip$ -- 66
+stack$ -- 0
+substring$ -- 104
+swap$ -- 32
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 16
+warning$ -- 2
+while$ -- 9
+width$ -- 5
+write$ -- 36
+(There were 2 warnings)

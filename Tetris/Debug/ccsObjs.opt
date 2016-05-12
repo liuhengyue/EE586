@@ -1,0 +1,1 @@
+"./video_loopback_test.obj" "./tvp5146.obj" "./morphOperations.obj" "./main.obj" "./kalman_filter.obj" "./contourTracing.obj" -l"libc.a" "../evmdm6437bsl.lib" "../linker.cmd" 
